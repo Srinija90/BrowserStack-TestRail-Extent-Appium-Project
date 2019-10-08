@@ -1,4 +1,4 @@
-# qa.app
+
 # Automated QA for the mobile app
 
 Download the JDK ---JDK version 1.8
